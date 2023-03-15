@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ARCensReg"]
+	path = ARCensReg
+	url = https://github.com/fernandalschumacher/arcensreg
+	shallow = true
+	registered = true
 [submodule "skewlmm"]
 	path = skewlmm
 	url = https://github.com/fernandalschumacher/skewlmm
