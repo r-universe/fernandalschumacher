@@ -5,6 +5,9 @@
 [submodule "ARCensReg"]
 	path = ARCensReg
 	url = https://github.com/fernandalschumacher/arcensreg
+[submodule "EMLMLasso"]
+	path = EMLMLasso
+	url = https://github.com/fernandalschumacher/emlmlasso
 [submodule "skewlmm"]
 	path = skewlmm
 	url = https://github.com/fernandalschumacher/skewlmm
